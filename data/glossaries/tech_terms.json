@@ -1,0 +1,17 @@
+[
+  {"ko_term":"배포","en_term":"deployment","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"최적화","en_term":"optimization","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"지연 시간","en_term":"latency","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"처리량","en_term":"throughput","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"장애 복구","en_term":"disaster recovery","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"버전 관리","en_term":"version control","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"컨테이너","en_term":"container","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"확장성","en_term":"scalability","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"가용성","en_term":"availability","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"부하 분산","en_term":"load balancing","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"캐시","en_term":"cache","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"인덱스","en_term":"index","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"데이터 무결성","en_term":"data integrity","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"인증","en_term":"authentication","domain":"technical","source":"tech_glossary"},
+  {"ko_term":"권한 부여","en_term":"authorization","domain":"technical","source":"tech_glossary"}
+]

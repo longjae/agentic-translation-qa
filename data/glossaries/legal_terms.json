@@ -1,0 +1,17 @@
+[
+  {"ko_term":"중대한 과실","en_term":"gross negligence","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"손해배상 책임","en_term":"liability for damages","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"계약 해지","en_term":"contract termination","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"위약금","en_term":"penalty","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"당사자","en_term":"party","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"의무 위반","en_term":"breach of obligation","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"손해 배상","en_term":"compensation for damages","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"면책","en_term":"exemption from liability","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"준거법","en_term":"governing law","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"관할 법원","en_term":"competent court","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"비밀유지","en_term":"confidentiality","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"계약 기간","en_term":"contract term","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"해지 통보","en_term":"notice of termination","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"분쟁 해결","en_term":"dispute resolution","domain":"legal","source":"legal_glossary"},
+  {"ko_term":"손실 보전","en_term":"indemnification","domain":"legal","source":"legal_glossary"}
+]

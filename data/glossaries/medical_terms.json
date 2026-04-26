@@ -1,0 +1,17 @@
+[
+  {"ko_term":"간 기능","en_term":"liver function","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"혈압","en_term":"blood pressure","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"응급 조치","en_term":"emergency measures","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"부작용","en_term":"adverse effects","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"투여","en_term":"administration","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"처방","en_term":"prescription","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"용량","en_term":"dosage","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"만성 질환","en_term":"chronic disease","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"급성 통증","en_term":"acute pain","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"진단","en_term":"diagnosis","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"치료 계획","en_term":"treatment plan","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"임상 시험","en_term":"clinical trial","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"면역 반응","en_term":"immune response","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"예후","en_term":"prognosis","domain":"medical","source":"medical_glossary"},
+  {"ko_term":"합병증","en_term":"complication","domain":"medical","source":"medical_glossary"}
+]
