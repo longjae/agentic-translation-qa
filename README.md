@@ -49,3 +49,5 @@ uv run pytest
   "target_language": "en"
 }
 ```
+
+[👉 report.md 바로가기](report.md)
